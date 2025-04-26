@@ -1,2 +1,2 @@
 ## Projemin fikri:
-> Fosil yakıt tüketimini durdurmak-azaltmak için neler yapabiliriz
+> Yenilemez enerjinin iklim değişikliğindeki zararını anlatan ve neden yenilebilir enerji kullanmamızı anlatan bir bot
